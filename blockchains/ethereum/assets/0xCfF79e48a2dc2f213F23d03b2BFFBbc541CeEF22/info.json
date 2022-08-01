@@ -1,0 +1,11 @@
+{
+  "name": "Concave PCNV",
+  "symbol": "PCNV",
+  "type": "ERC20",
+  "decimals": 18,
+  "description": "",
+  "website": "https://concave.lol/",
+  "explorer": "https://etherscan.io/token/0xCfF79e48a2dc2f213F23d03b2BFFBbc541CeEF22",
+  "status": "active",
+  "id": "0xCfF79e48a2dc2f213F23d03b2BFFBbc541CeEF22"
+}
