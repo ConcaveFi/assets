@@ -1,0 +1,41 @@
+{
+    "name": "Concave",
+    "website": "https://concave.lol/",
+    "description": "Concave is a Magic Number Machine that encapsulates all our products such as Smart Bonding, Liquid Staking, Concave Marketplace, Concave Exchange, and Concave World - managing on-chain and off-chain algorithms to capture capital efficiency.",
+    "explorer": "https://etherscan.io/token/0x0000000012a0592C154D552C410030E724b2eA00",
+    "type": "ERC20",
+    "symbol": "bbtCNV",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x0000000012a0592C154D552C410030E724b2eA00",
+    "tags": [
+        "defi staking nft governance"
+    ],
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/ConcaveFi/"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/ConcaveFi"
+        },
+        {
+            "name": "blog",
+            "url": "https://concave.lol/blog/"
+        },
+        {
+            "name": "documentation",
+            "url": "https://docs.concave.lol/introduction/"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/concave/"
+        },
+
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/en/coins/concave"
+        }
+    ]
+}
