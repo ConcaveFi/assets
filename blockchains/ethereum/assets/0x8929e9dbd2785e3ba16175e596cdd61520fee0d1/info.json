@@ -1,0 +1,11 @@
+{
+	"name": "Altitude",
+	"type": "ERC20",
+	"symbol": "ALTD",
+	"decimals": 18,
+	"website": "https://alchemydao.com/",
+	"description": "",
+	"explorer": "https://etherscan.io/token/0x8929e9dbd2785e3ba16175e596cdd61520fee0d1",
+	"status": "active",
+	"id": "0x8929e9dbd2785e3ba16175e596cdd61520fee0d1"
+}
